@@ -1,0 +1,3 @@
+[submodule "API_REST_SLIM2"]
+	path = API_REST_SLIM2
+	url = https://github.com/OmarrLc/API_REST_SLIM2.git
